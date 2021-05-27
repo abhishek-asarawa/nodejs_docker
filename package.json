@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_docker",
+  "version": "1.0.0",
+  "description": "simple node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-asarawa/nodejs_docker.git"
+  },
+  "author": "Abhishek Asarawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek-asarawa/nodejs_docker/issues"
+  },
+  "homepage": "https://github.com/abhishek-asarawa/nodejs_docker#readme"
+}
